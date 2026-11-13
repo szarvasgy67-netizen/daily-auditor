@@ -11,6 +11,7 @@ st.markdown("Hivatások, gyülekezetek, civil szervezetek és adományozói port
 # --- 1. BEÉPÍTETT ADATBÁZISOK ÉS BÁZISÉRTÉKEK ---
 PPP_GDP_DB = {
     "Magyarország (16,12M Ft)": 16121000,
+    "USA (29,8M Ft)": 29800000,
     "Fejlődő országok átlaga (1,15M Ft)": 1151500,
     "Bissau-Guinea (964e Ft)": 963970,
     "Kongói DK (651e Ft)": 651420,
