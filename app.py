@@ -191,7 +191,6 @@ for r in all_rows:
         "Ráfordítás (Ft)": f"{r['Ráfordítás (Ft)']:,.0f}".replace(",", " "),
         "Korrigált DALY": round(r["Korrigált DALY"], 2),
         "GiveWell Nettó DALY": round(r["GiveWell DALY"], 2),
-Körültekintően használja a kódot.
 "ICER (Ft / DALY)": f"{icer:,.0f}".replace(",", " "),
 "PPP Teher (GDP %)": f"{ppp_pct:.2f}%",
 "Valós PPP Előny (Orvos = 1x)": f"{ppp_adv:.1f}x"
